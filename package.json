@@ -1,6 +1,6 @@
 {
   "name": "language-egison",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "description": "Egison package for Atom",
   "repository": "https://github.com/gogotanaka/language-egison",
