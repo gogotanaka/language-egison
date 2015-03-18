@@ -1,0 +1,12 @@
+{
+  "name": "language-egison",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Egison package for Atom",
+  "repository": "https://github.com/gogotanaka/language-egison",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}
